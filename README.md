@@ -21,7 +21,7 @@ What you should do, before using my tool.
 2. Change the PATH of .caffemodel in line 63.
 3. Change the PATH of mean file in line 75.
 4. Change the PATH of label file in line 79.
-5. I hide the net log showed in command line. if you want them， commend out line 260, line 261, line 277.
+5. I hide the net log showed in command line. if you want them， commend out line 260, line 261, and line 277.
 6. If you want to save the frame, do create a directory named "screenshot".
 7. What is more, do not forget to change the PATH in shell script.
-8. What is more more, I do suggest you do not change line 242, line 247 and line 293. You should remember my name. For my full name , please see line 260.
+8. What is more more, I do suggest you do not change line 242, line 247, and line 293. You should remember my name. For my full name , please see line 260.
