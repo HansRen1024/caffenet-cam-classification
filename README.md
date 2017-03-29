@@ -5,7 +5,7 @@ I did a lot work using MATLAB during the period of being a student.
 However, my new boss told me to forget MATLAB and do C/C++.
 In order to feed myself and my fiancee, I have to start to learn C++.
 Besides, I'd like to learn something new for me.
-I sign up my Github at 2017.3.28 to record how a newfish becoming a master.
+I sign up my Github at 2017.3.22 to record how a newfish becoming a master.
 And caffenet-cam-classification is my first project.
 
 cpp-classification is an example tool in caffe. I changed it. Below shows the details.
